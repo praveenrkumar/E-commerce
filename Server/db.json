@@ -1,0 +1,31 @@
+{
+  "customers": [
+    {
+      "name": "Praveen",
+      "address": {
+        "city": "Chennai"
+      },
+      "phone": "1234",
+      "photo": "https://picsum.photos/id/1012/60",
+      "id": 1
+    },
+    {
+      "name": "Rupesh",
+      "address": {
+        "city": "Ambattur"
+      },
+      "phone": "09076",
+      "photo": "https://picsum.photos/id/1012/61",
+      "id": 2
+    },
+    {
+      "name": "Sam",
+      "address": {
+        "city": "Delhi"
+      },
+      "phone": "8788686",
+      "photo": "https://picsum.photos/id/1013/60",
+      "id": 3
+    }
+  ]
+}
